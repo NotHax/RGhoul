@@ -1,4 +1,4 @@
-local gui = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NotHax/RGhoul/RG.lua"))():AddWindow("Ro-Ghoul V0.1 by Repose", {
+local gui = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NotHax/RGhoul/refs/heads/main/R.lua"))():AddWindow("Ro-Ghoul V0.1 by Repose", {
     main_color = Color3.fromRGB(0,0,0),
     min_size = Vector2.new(373, 340),
     can_resize = false
